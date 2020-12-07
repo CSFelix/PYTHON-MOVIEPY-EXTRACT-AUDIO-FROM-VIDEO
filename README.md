@@ -6,13 +6,13 @@
 * This repository just keeps a short python's code that extract audio of any video. The video can be in any format (mp4, mov, mkv...) and the audio output is in MP3 and OGV only (I can upgrade this repo to another kinda output).
 
 ----
-⚒️ Tools ⚒️
+### `⚒️ Tools ⚒️`
 
 * Python 3.7 version or later;
 * MoviePY library.
 
 ----
-⚙️ Run ⚙️
+### `⚙️ Run ⚙️`
 
 > **Installing Packages**
 
@@ -33,7 +33,7 @@ python extractor.py
 ```
 
 ----
-> `📝 Notes 📝`
+### `📝 Notes 📝`
 
 * **Input Video:** any format (mp4, mov, mvk...);
 * **Output Audio:** mp3 and ogv only.
@@ -44,7 +44,7 @@ python extractor.py
 * If you know another audio format that is good, lemme know and Imma upgrade this repo!
 
 ----
-> `✉️ Contact ✉️`
+### `✉️ Contact ✉️`
 
 > **Email:** `csfelix08@gmail.com`
 
