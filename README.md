@@ -55,7 +55,8 @@ output_music
 ### `📝 Notes 📝`
 
 * **Input Video:** any format (mp4, mov, mvk...);
-* **Output Audio:** mp3 and wav only.
+* **Output Audio:** mp3 and wav only;
+* **Output Audio's Path:** the same of Python Code.
 
 ----
 ### `🎁 Bonus 🎁`
