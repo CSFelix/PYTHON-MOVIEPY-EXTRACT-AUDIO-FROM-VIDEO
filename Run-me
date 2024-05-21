@@ -1,0 +1,18 @@
+echo hello and welcome to CSFelixs Python audio extractor make sure you have followed setup before proceding
+
+echo what is the path to the video file
+
+read path
+
+echo What Will the output file be called
+
+read name
+
+echo what Will the format be 0=mp3 1=wav
+
+read type
+
+python extractor.py $path $name $type
+
+
+
